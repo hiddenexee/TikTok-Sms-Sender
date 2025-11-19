@@ -1,10 +1,11 @@
 <div align="center">
-  <h1>♪ TikTok SMS Sender - NEW UPDATE 15.11.2025</h1>
+  <h1>♪ TikTok SMS Sender - NEW UPDATE 19.11.2025</h1>
 </div>
  
 # Features:
 
 - No Third Party Apis
+- Captcha solver
 - Full Requests
 - Need Proxies
  
