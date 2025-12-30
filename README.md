@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>♪ TikTok SMS Sender - NEW UPDATE 20.12.2025</h1>
+  <h1>♪ TikTok SMS Sender - NEW UPDATE 30.12.2025</h1>
 </div>
  
 # Features:
